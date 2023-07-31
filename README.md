@@ -1,2 +1,3 @@
-# Landing page of Star consulting using React
+# Landing page of the consulting agency
 
+Landing page with React.
